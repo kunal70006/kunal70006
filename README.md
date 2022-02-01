@@ -1,10 +1,10 @@
 ### Hi I'm Kunal. 👋
 
-## I'm an aspiring Front End Web Developer and a college student
+## I'm an aspiring Web Developer and a college student
 
 
-- 🌱 I’m currently learning Next.js, Design and React
-- 💬 Ask me about JavaScript and Python
+- 🌱 I’m currently learning Vue.js & Chakra UI
+- 💬 Ask me about ReactJS and the JS/TS ecosystem
 - 😄 Pronouns: he/him
 
 
