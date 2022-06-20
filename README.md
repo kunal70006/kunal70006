@@ -1,6 +1,6 @@
 ### Hi I'm Kunal. 👋
 
-## I'm a Front-end developer specializing in ReactJs and NextJs.
+## I'm a Front-end developer working with ReactJs and NextJs.
 
 
 - 🌱 I’m currently learning Vue.js & Chakra UI
