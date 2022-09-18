@@ -3,8 +3,8 @@
 ## I'm a Front-end developer working with ReactJs and NextJs.
 
 
-- 🌱 I’m currently learning Vue.js & Chakra UI
-- 💬 Ask me about ReactJS and the JS/TS ecosystem
+- 🌱 I’m currently learning Vue.js & Astro
+- 💬 Ask me about NextJS
 - 😄 Pronouns: he/him
 
 
@@ -14,4 +14,4 @@
 
 [instagram]: https://instagram.com/kunaaalisthisusernameavailable
 [linkedin]: https://www.linkedin.com/in/kunaldeep-singh-3622b71b0/
-[portfolio]: https://portfolio-kunaal.netlify.app/
+[portfolio]: https://portfolio-website-kunal.vercel.app/
